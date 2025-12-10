@@ -1,0 +1,733 @@
+{
+  "tripName": "Singapore Adventure with Friends",
+  "durationDays": 7,
+  "itinerary": [
+    {
+      "day": 1,
+      "date": "2025-09-01",
+      "theme": "The Iconic Skyline",
+      "activities": [
+        {
+          "id": "activity-01",
+          "name": "Lunch at Satay by the Bay",
+          "description": "Start your trip with a classic Singaporean outdoor dining experience, enjoying a variety of satay and other local hawker delicacies in a garden setting.",
+          "category": "Food",
+          "imageUrl": "https://www.gardensbythebay.com.sg/content/dam/gbb-2021/image/things-to-do/dine-and-shop/satay-by-the-bay/gallery/satay-by-the-bay-02.jpg",
+          "startTime": "2025-09-01T12:30:00+08:00",
+          "endTime": "2025-09-01T13:45:00+08:00",
+          "location": {
+            "address": "18 Marina Gardens Dr, #01-19, Singapore 018953",
+            "latitude": 1.281568,
+            "longitude": 103.865613
+          },
+          "cost": {
+            "estimatedAmount": 20.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost per person."
+          },
+          "bookingLink": null,
+          "officialWebsite": "https://www.sataybythebay.com.sg/",
+          "dressCode": "Casual",
+          "userNotes": "Bring cash as some stalls may not accept cards."
+        },
+        {
+          "id": "activity-02",
+          "name": "Gardens by the Bay",
+          "description": "An iconic Singapore destination, this futuristic park features the famous Supertree Grove, the Flower Dome, and the Cloud Forest conservatory, which houses the world's tallest indoor waterfall.",
+          "category": "Attraction",
+          "imageUrl": "https://images.unsplash.com/photo-1508964942454-1a56651d54ac?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-01T14:00:00+08:00",
+          "endTime": "2025-09-01T17:00:00+08:00",
+          "location": {
+            "address": "18 Marina Gardens Dr, Singapore 018953",
+            "latitude": 1.281568,
+            "longitude": 103.863613
+          },
+          "cost": {
+            "estimatedAmount": 53.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Price for Cloud Forest + Flower Dome combo for one adult."
+          },
+          "bookingLink": "https://www.gardensbythebay.com.sg/en/ticketing.html",
+          "officialWebsite": "https://www.gardensbythebay.com.sg/",
+          "dressCode": "Comfortable walking shoes. Bring a light jacket for the cooled conservatories.",
+          "userNotes": "Remember to stay for the Garden Rhapsody light show at the Supertree Grove in the evening!"
+        },
+        {
+          "id": "activity-03",
+          "name": "Marina Bay Sands SkyPark",
+          "description": "Get an unparalleled 360-degree view of Singapore's skyline from the observation deck of this architectural marvel. The best time to visit is during sunset.",
+          "category": "Attraction",
+          "imageUrl": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-01T17:30:00+08:00",
+          "endTime": "2025-09-01T19:00:00+08:00",
+          "location": {
+            "address": "10 Bayfront Ave, Singapore 018956",
+            "latitude": 1.283083,
+            "longitude": 103.860183
+          },
+          "cost": {
+            "estimatedAmount": 32.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard entry ticket for one adult."
+          },
+          "bookingLink": "https://www.marinabaysands.com/attractions/skypark-observation-deck.html",
+          "officialWebsite": "https://www.marinabaysands.com/",
+          "dressCode": "Casual.",
+          "userNotes": ""
+        },
+        {
+          "id": "activity-04",
+          "name": "Dinner at Makansutra Gluttons Bay",
+          "description": "Experience another side of Singapore's street food culture at this open-air food market with stunning views of the Marina Bay skyline.",
+          "category": "Food",
+          "imageUrl": "https://images.unsplash.com/photo-1633084069933-90909c5e552d?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-01T19:30:00+08:00",
+          "endTime": "2025-09-01T20:45:00+08:00",
+          "location": {
+            "address": "8 Raffles Ave, #01-15, Singapore 039802",
+            "latitude": 1.2885,
+            "longitude": 103.8567
+          },
+          "cost": {
+            "estimatedAmount": 25.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost per person."
+          },
+          "bookingLink": null,
+          "officialWebsite": "https://www.makansutra.com/",
+          "dressCode": "Casual",
+          "userNotes": "Try the chili crab from one of the seafood stalls."
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2025-09-02",
+      "theme": "Cultural & Historical Quarters",
+      "activities": [
+        {
+          "id": "activity-05",
+          "name": "Explore Chinatown Complex",
+          "description": "Dive into the heart of Singapore's Chinatown. Visit the Buddha Tooth Relic Temple and explore the bustling Chinatown Street Market.",
+          "category": "Cultural",
+          "imageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQDbJ8e0c-6CM8jHIymJ366DOh39y61Ue8MkFVZKWFZhd1Wh0EC9C66xs6_qUMyy16Vj1pgvZsYnsXdKMKWRYeNvvJq3PNwbm9VWb1jTw",
+          "startTime": "2025-09-02T10:00:00+08:00",
+          "endTime": "2025-09-02T12:00:00+08:00",
+          "location": {
+            "address": "335 Smith St, Singapore 050335",
+            "latitude": 1.2828,
+            "longitude": 103.8436
+          },
+          "cost": {
+            "estimatedAmount": 15.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost for breakfast and coffee."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "Modest attire for temple visits.",
+          "userNotes": "The hawker centre in the Chinatown Complex is one of the best and cheapest in Singapore."
+        },
+        {
+          "id": "activity-travel-01",
+          "name": "Travel to Kampong Glam",
+          "description": "Travel via the Downtown Line MRT from Chinatown to Bugis station.",
+          "category": "Travel",
+          "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS3CgkPstspzeY5_NNZC9AoVmep13Tjbie7H5alsmzldZXsn5yifnJ4mRVMT7iDRzWd3bXYkJ0wD-PsjFbHKw4xVHI9dnLYSl29hGg_NQ",
+          "startTime": "2025-09-02T12:00:00+08:00",
+          "endTime": "2025-09-02T12:30:00+08:00",
+          "location": null,
+          "cost": {
+            "estimatedAmount": 2.00,
+            "currency": "SGD",
+            "category": "Transport",
+            "notes": "Estimated cost for public transport."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "",
+          "userNotes": "The MRT is the most efficient way to travel between these districts."
+        },
+        {
+          "id": "activity-06",
+          "name": "Kampong Glam & Haji Lane",
+          "description": "Explore the historic Malay-Arab quarter, home to the majestic Sultan Mosque. Afterwards, dive into Haji Lane, a narrow street filled with indie boutiques, street art, and quirky cafes.",
+          "category": "Cultural",
+          "imageUrl": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS3CgkPstspzeY5_NNZC9AoVmep13Tjbie7H5alsmzldZXsn5yifnJ4mRVMT7iDRzWd3bXYkJ0wD-PsjFbHKw4xVHI9dnLYSl29hGg_NQ",
+          "startTime": "2025-09-02T12:30:00+08:00",
+          "endTime": "2025-09-02T15:30:00+08:00",
+          "location": {
+            "address": "Haji Ln, Singapore",
+            "latitude": 1.30132,
+            "longitude": 103.85903
+          },
+          "cost": {
+            "estimatedAmount": 25.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost for lunch at a local cafe."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "Modest attire recommended when visiting the mosque.",
+          "userNotes": "Look out for the amazing street art for photo ops."
+        },
+        {
+          "id": "activity-travel-02",
+          "name": "Travel to Little India",
+          "description": "A short walk or a quick bus ride from Kampong Glam.",
+          "category": "Travel",
+          "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUwhbGebDbM1ZKePv6TmiVKop9JiBIHOskL30Ess1lK3f3HCF2yZ-UImXvkuQGRRHS380ZjsMp4xWrfXphO4XCh9t1UU7G55vRs1F37iUljnBT-pNRa1DgTA7wxnNGzJwesgQtOw=w1080-h624-n-k-no",
+          "startTime": "2025-09-02T15:30:00+08:00",
+          "endTime": "2025-09-02T15:45:00+08:00",
+          "location": null,
+          "cost": {
+            "estimatedAmount": 1.00,
+            "currency": "SGD",
+            "category": "Transport",
+            "notes": "Estimated cost for public transport."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "",
+          "userNotes": ""
+        },
+        {
+          "id": "activity-07",
+          "name": "Explore Little India",
+          "description": "Immerse yourself in the vibrant sights, sounds, and smells of Little India. Visit the Sri Veeramakaliamman Temple and browse the 24-hour Mustafa Centre.",
+          "category": "Cultural",
+          "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrUwhbGebDbM1ZKePv6TmiVKop9JiBIHOskL30Ess1lK3f3HCF2yZ-UImXvkuQGRRHS380ZjsMp4xWrfXphO4XCh9t1UU7G55vRs1F37iUljnBT-pNRa1DgTA7wxnNGzJwesgQtOw=w1080-h624-n-k-no",
+          "startTime": "2025-09-02T15:45:00+08:00",
+          "endTime": "2025-09-02T18:00:00+08:00",
+          "location": {
+            "address": "Serangoon Road, Singapore",
+            "latitude": 1.3064,
+            "longitude": 103.8525
+          },
+          "cost": {
+            "estimatedAmount": 30.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Dinner at a banana leaf restaurant."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "Casual.",
+          "userNotes": "Mustafa Centre is a great place for souvenir shopping at good prices."
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2025-09-03",
+      "theme": "Island Adventures on Sentosa",
+      "activities": [
+        {
+          "id": "activity-08",
+          "name": "Universal Studios Singapore",
+          "description": "Experience cutting-edge rides, shows, and attractions based on your favorite blockbuster films and television series. A full day of fun for everyone.",
+          "category": "Theme Park",
+          "imageUrl": "https://images.unsplash.com/photo-1618945372420-2470ece5277c?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-03T10:00:00+08:00",
+          "endTime": "2025-09-03T17:00:00+08:00",
+          "location": {
+            "address": "8 Sentosa Gateway, Singapore 098269",
+            "latitude": 1.254042,
+            "longitude": 103.823823
+          },
+          "cost": {
+            "estimatedAmount": 82.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard one-day ticket for one adult."
+          },
+          "bookingLink": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
+          "officialWebsite": "https://www.rwsentosa.com/en/attractions/universal-studios-singapore",
+          "dressCode": "Comfortable clothes and footwear. Bring sunscreen and a hat.",
+          "userNotes": "Consider getting an Express Pass if visiting on a weekend to skip the long queues."
+        },
+        {
+          "id": "activity-09",
+          "name": "Skyline Luge & Skyride",
+          "description": "A unique wheeled gravity ride that provides you with full control over your descent on a purpose-built track. Take the Skyride to the top for a scenic view of the island.",
+          "category": "Attraction",
+          "imageUrl": "https://images.unsplash.com/photo-1696582836075-9f66d4c31f7b?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-03T17:30:00+08:00",
+          "endTime": "2025-09-03T19:00:00+08:00",
+          "location": {
+            "address": "45 Siloso Beach Walk, Sentosa, Singapore 099003",
+            "latitude": 1.2527,
+            "longitude": 103.8153
+          },
+          "cost": {
+            "estimatedAmount": 30.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Cost for 2 rides."
+          },
+          "bookingLink": "https://www.skylineluge.com/en/sentosa/",
+          "officialWebsite": "https://www.skylineluge.com/en/sentosa/",
+          "dressCode": "Casual",
+          "userNotes": "The tracks are lit for night rides, which is a great experience."
+        },
+        {
+          "id": "activity-10",
+          "name": "Wings of Time",
+          "description": "End the day with a spectacular night show set outdoors against the backdrop of the open sea. Be mesmerized by a multi-sensory presentation of water display, laser show, fire effects and music.",
+          "category": "Attraction",
+          "imageUrl": "https://www.sentosa.com.sg/-/media/sentosa/hero-asset/attractions/wings-of-time/image--wings-of-time-finale-fireworks.jpg",
+          "startTime": "2025-09-03T19:40:00+08:00",
+          "endTime": "2025-09-03T20:00:00+08:00",
+          "location": {
+            "address": "50 Beach View, Singapore 098604",
+            "latitude": 1.2492,
+            "longitude": 103.8198
+          },
+          "cost": {
+            "estimatedAmount": 18.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard seat."
+          },
+          "bookingLink": "https://www.mountfaberleisure.com/attraction/wings-of-time/",
+          "officialWebsite": "https://www.mountfaberleisure.com/attraction/wings-of-time/",
+          "dressCode": "Casual",
+          "userNotes": "Arrive a little early to get a good seat."
+        },
+        {
+          "id": "activity-23",
+          "name": "Dinner at VivoCity",
+          "description": "After a long day on Sentosa, head back to VivoCity, a large shopping mall at the harbourfront, for a wide variety of dinner options in its food courts or restaurants.",
+          "category": "Food",
+          "imageUrl": "https://images.unsplash.com/photo-1619602552480-d7dafd1f7338?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2VudG9zYXxlbnwwfHwwfHx8MA%3D%3D",
+          "startTime": "2025-09-03T20:30:00+08:00",
+          "endTime": "2025-09-03T21:45:00+08:00",
+          "location": {
+            "address": "1 HarbourFront Walk, Singapore 098585",
+            "latitude": 1.2648,
+            "longitude": 103.822,
+            "notes": "Take the Sentosa Express monorail back to the VivoCity station."
+          },
+          "cost": {
+            "estimatedAmount": 25,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost per person."
+          },
+          "bookingLink": null,
+          "officialWebsite": "https://www.vivocity.com.sg/",
+          "dressCode": "Casual",
+          "userNotes": "The Food Republic food court has a great selection of local and regional dishes."
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2025-09-04",
+      "theme": "Wildlife Encounters",
+      "activities": [
+        {
+          "id": "activity-11",
+          "name": "Singapore Zoo",
+          "description": "Known for its 'open concept' enclosures, the Singapore Zoo offers opportunities to experience wonderful wildlife in a naturalistic rainforest environment.",
+          "category": "Nature",
+          "imageUrl": "https://plus.unsplash.com/premium_photo-1663050918605-6a144a9d182f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c2luZ2Fwb3JlJTIwem9vfGVufDB8fDB8fHww",
+          "startTime": "2025-09-04T09:00:00+08:00",
+          "endTime": "2025-09-04T13:00:00+08:00",
+          "location": {
+            "address": "80 Mandai Lake Rd, Singapore 729826",
+            "latitude": 1.404349,
+            "longitude": 103.793022
+          },
+          "cost": {
+            "estimatedAmount": 48.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard one-day ticket for one adult."
+          },
+          "bookingLink": "https://www.mandai.com/en/singapore-zoo.html",
+          "officialWebsite": "https://www.mandai.com/en/singapore-zoo.html",
+          "dressCode": "Light clothing, comfortable walking shoes, insect repellent.",
+          "userNotes": "Check feeding times for animals like giraffes and elephants for an interactive experience."
+        },
+        {
+          "id": "activity-12",
+          "name": "River Wonders",
+          "description": "Asia's first and only river-themed wildlife park. Explore iconic river habitats from the Mississippi to the Yangtze and see animals like giant pandas and manatees.",
+          "category": "Nature",
+          "imageUrl": "https://images.unsplash.com/photo-1576316379195-d7d2e06119c8?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-04T13:30:00+08:00",
+          "endTime": "2025-09-04T17:00:00+08:00",
+          "location": {
+            "address": "80 Mandai Lake Rd, Singapore 729826",
+            "latitude": 1.4038,
+            "longitude": 103.7893
+          },
+          "cost": {
+            "estimatedAmount": 42.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard one-day ticket."
+          },
+          "bookingLink": "https://www.mandai.com/en/river-wonders.html",
+          "officialWebsite": "https://www.mandai.com/en/river-wonders.html",
+          "dressCode": "Comfortable walking shoes.",
+          "userNotes": "Don't miss the Amazon River Quest boat ride."
+        },
+        {
+          "id": "activity-13",
+          "name": "Night Safari",
+          "description": "As dusk falls, the world's first nocturnal zoo opens its doors. See over 2,500 animals in their naturalistic nighttime habitats.",
+          "category": "Nature",
+          "imageUrl": "https://images.unsplash.com/photo-1602491453631-e2a5ad90a131?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2luZ2Fwb3JlJTIwem9vfGVufDB8fDB8fHww",
+          "startTime": "2025-09-04T18:30:00+08:00",
+          "endTime": "2025-09-04T21:30:00+08:00",
+          "location": {
+            "address": "80 Mandai Lake Rd, Singapore 729826",
+            "latitude": 1.403,
+            "longitude": 103.787
+          },
+          "cost": {
+            "estimatedAmount": 55.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard ticket with tram ride."
+          },
+          "bookingLink": "https://www.mandai.com/en/night-safari.html",
+          "officialWebsite": "https://www.mandai.com/en/night-safari.html",
+          "dressCode": "Comfortable clothes, insect repellent.",
+          "userNotes": "Take the tram ride first to get an overview, then explore the walking trails. Grab dinner at the entrance food court before going in."
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2025-09-05",
+      "theme": "Shopping, Food & River Views",
+      "activities": [
+        {
+          "id": "activity-14",
+          "name": "Orchard Road",
+          "description": "Singapore's premier shopping street, flanked by iconic shopping malls, department stores, and standalone boutiques offering everything from high fashion to electronics.",
+          "category": "Shopping",
+          "imageUrl": "https://images.unsplash.com/photo-1668245132288-76aba0c9e8de?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8b3JjaGFyZCUyMHJvYWR8ZW58MHx8MHx8fDA%3D",
+          "startTime": "2025-09-05T11:00:00+08:00",
+          "endTime": "2025-09-05T15:00:00+08:00",
+          "location": {
+            "address": "Orchard Road, Singapore",
+            "latitude": 1.304833,
+            "longitude": 103.831833
+          },
+          "cost": {
+            "estimatedAmount": 20.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost for lunch in a mall food court."
+          },
+          "bookingLink": null,
+          "officialWebsite": "https://www.orchardroad.org/",
+          "dressCode": "Casual",
+          "userNotes": "The food courts inside the malls like ION Orchard or 313@somerset are great for a quick and affordable lunch."
+        },
+        {
+          "id": "activity-travel-03",
+          "name": "Travel to Clarke Quay",
+          "description": "Travel via the North East Line MRT from Dhoby Ghaut/Somerset to Clarke Quay station.",
+          "category": "Travel",
+          "imageUrl": "https://images.unsplash.com/photo-1585577040567-7e4c6b6da92f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2xhcmtlJTIwcXVheXxlbnwwfHwwfHx8MA%3D%3D",
+          "startTime": "2025-09-05T15:00:00+08:00",
+          "endTime": "2025-09-05T15:30:00+08:00",
+          "location": null,
+          "cost": {
+            "estimatedAmount": 2.00,
+            "currency": "SGD",
+            "category": "Transport",
+            "notes": "Estimated cost for public transport."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "",
+          "userNotes": ""
+        },
+        {
+          "id": "activity-15",
+          "name": "Singapore River Cruise",
+          "description": "Take a leisurely bumboat cruise along the Singapore River. See the historic bridges, colonial-era shophouses, and the modern skyscrapers of the CBD.",
+          "category": "Attraction",
+          "imageUrl": "https://images.unsplash.com/photo-1620054940121-0ad088e4611c?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-05T16:00:00+08:00",
+          "endTime": "2025-09-05T16:40:00+08:00",
+          "location": {
+            "address": "30 Merchant Rd, #01-08 Clarke Quay, Singapore 058282",
+            "latitude": 1.289,
+            "longitude": 103.846
+          },
+          "cost": {
+            "estimatedAmount": 25.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard 40-minute ride."
+          },
+          "bookingLink": "https://rivercruise.com.sg/",
+          "officialWebsite": "https://rivercruise.com.sg/",
+          "dressCode": "Casual",
+          "userNotes": "The cruise provides excellent photo opportunities of the Merlion and Marina Bay Sands from the water."
+        },
+        {
+          "id": "activity-16",
+          "name": "Dinner and Drinks at Boat Quay",
+          "description": "Explore the vibrant nightlife and diverse dining options along the river at Boat Quay, known for its seafood restaurants and lively bars.",
+          "category": "Food",
+          "imageUrl": "https://images.unsplash.com/photo-1625322038818-45d88b51251e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xhcmtlJTIwcXVheXxlbnwwfHwwfHx8MA%3D%3D",
+          "startTime": "2025-09-05T18:30:00+08:00",
+          "endTime": "2025-09-05T20:30:00+08:00",
+          "location": {
+            "address": "Boat Quay, Singapore",
+            "latitude": 1.2878,
+            "longitude": 103.8510
+          },
+          "cost": {
+            "estimatedAmount": 50.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost for dinner and a drink."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "Smart Casual",
+          "userNotes": "Walk the entire stretch to see all the options before picking a restaurant."
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2025-09-06",
+      "theme": "Art & Modernity",
+      "activities": [
+        {
+          "id": "activity-17",
+          "name": "National Gallery Singapore",
+          "description": "Home to the largest public collection of Singaporean and Southeast Asian art. The gallery is housed in two beautifully restored national monuments: the former Supreme Court and City Hall.",
+          "category": "Museum",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Interior_of_the_National_Gallery_Singapore.jpg/1200px-Interior_of_the_National_Gallery_Singapore.jpg",
+          "startTime": "2025-09-06T10:00:00+08:00",
+          "endTime": "2025-09-06T12:30:00+08:00",
+          "location": {
+            "address": "1 St Andrew's Rd, Singapore 178957",
+            "latitude": 1.2906,
+            "longitude": 103.8519
+          },
+          "cost": {
+            "estimatedAmount": 20.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard admission for non-residents."
+          },
+          "bookingLink": "https://www.nationalgallery.sg/",
+          "officialWebsite": "https://www.nationalgallery.sg/",
+          "dressCode": "Casual",
+          "userNotes": "The rooftop bar offers stunning views of the Padang and Marina Bay."
+        },
+        {
+          "id": "activity-travel-04",
+          "name": "Travel to ArtScience Museum",
+          "description": "A pleasant 15-minute walk across the Jubilee Bridge and past the Esplanade.",
+          "category": "Travel",
+          "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/0a/88/c8/artscience-museum.jpg?w=1200&h=1200&s=1",
+          "startTime": "2025-09-06T12:30:00+08:00",
+          "endTime": "2025-09-06T12:45:00+08:00",
+          "location": null,
+          "cost": {
+            "estimatedAmount": 0,
+            "currency": "SGD",
+            "category": "Transport",
+            "notes": "Walking is free."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "",
+          "userNotes": "This walk offers some of the best views of the city skyline."
+        },
+        {
+          "id": "activity-18",
+          "name": "ArtScience Museum",
+          "description": "An iconic landmark that hosts a rotating lineup of major international touring exhibitions. The permanent exhibition, 'Future World: Where Art Meets Science', is a must-see.",
+          "category": "Museum",
+          "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/0a/88/c8/artscience-museum.jpg?w=1200&h=1200&s=1",
+          "startTime": "2025-09-06T12:45:00+08:00",
+          "endTime": "2025-09-06T15:00:00+08:00",
+          "location": {
+            "address": "6 Bayfront Ave, Singapore 018974",
+            "latitude": 1.2862,
+            "longitude": 103.8595
+          },
+          "cost": {
+            "estimatedAmount": 25.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Price for 'Future World' exhibition for one adult."
+          },
+          "bookingLink": "https://www.marinabaysands.com/museum.html",
+          "officialWebsite": "https://www.marinabaysands.com/museum.html",
+          "dressCode": "Casual.",
+          "userNotes": "Very instagrammable exhibits!"
+        },
+        {
+          "id": "activity-19",
+          "name": "Singapore Flyer",
+          "description": "Ride one of the world's largest observation wheels for a breathtaking 360° view of the city. A great activity for sunset.",
+          "category": "Attraction",
+          "imageUrl": "https://images.unsplash.com/photo-1559633462-d82e21578552?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2luZ2Fwb3JlJTIwZmx5ZXJ8ZW58MHx8MHx8fDA%3D",
+          "startTime": "2025-09-06T18:00:00+08:00",
+          "endTime": "2025-09-06T18:30:00+08:00",
+          "location": {
+            "address": "30 Raffles Ave, Singapore 039803",
+            "latitude": 1.2893,
+            "longitude": 103.8632
+          },
+          "cost": {
+            "estimatedAmount": 33.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Standard adult ticket."
+          },
+          "bookingLink": "https://www.singaporeflyer.com/",
+          "officialWebsite": "https://www.singaporeflyer.com/",
+          "dressCode": "Casual",
+          "userNotes": "Book tickets online in advance to avoid queues. The time between museum and flyer can be used for shopping at Marina Bay Sands."
+        },
+        {
+          "id": "activity-24",
+          "name": "Dinner at Lau Pa Sat",
+          "description": "Experience a historic landmark and popular food centre. Enjoy a wide variety of local dishes and sit at the outdoor 'Satay Street' which opens in the evening.",
+          "category": "Food",
+          "imageUrl": "https://images.unsplash.com/photo-1739857554154-80c15b7b1af7?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "startTime": "2025-09-06T19:00:00+08:00",
+          "endTime": "2025-09-06T20:30:00+08:00",
+          "location": {
+            "address": "18 Raffles Quay, Singapore 048582",
+            "latitude": 1.2801,
+            "longitude": 103.8504
+          },
+          "cost": {
+            "estimatedAmount": 25,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Estimated cost per person for dinner."
+          },
+          "bookingLink": null,
+          "officialWebsite": "https://laupasat.sg/",
+          "dressCode": "Casual",
+          "userNotes": "Satay Street (Boon Tat Street) is a must-try experience."
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2025-09-07",
+      "theme": "Departure via The World's Best Airport",
+      "activities": [
+        {
+          "id": "activity-20",
+          "name": "Kaya Toast Breakfast",
+          "description": "Enjoy a traditional Singaporean breakfast of kaya (coconut jam) toast, soft-boiled eggs, and kopi (local coffee).",
+          "category": "Food",
+          "imageUrl": "https://images.unsplash.com/photo-1610482811387-7096b78330d3?q=80&w=1974&auto=format&fit=crop",
+          "startTime": "2025-09-07T09:30:00+08:00",
+          "endTime": "2025-09-07T10:30:00+08:00",
+          "location": {
+            "address": "Various Locations",
+            "latitude": 1.3521,
+            "longitude": 103.8198
+          },
+          "cost": {
+            "estimatedAmount": 8.00,
+            "currency": "SGD",
+            "category": "Food",
+            "notes": "Find a local Ya Kun Kaya Toast or Toast Box outlet."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "Casual",
+          "userNotes": "Learn the local coffee lingo (e.g., Kopi O, Kopi C) for a truly local experience."
+        },
+        {
+          "id": "activity-21",
+          "name": "Last-Minute Souvenir Shopping",
+          "description": "A final chance to buy souvenirs and gifts. Bugis Street is a great option for affordable clothes, accessories, and trinkets.",
+          "category": "Shopping",
+          "imageUrl": "https://images.unsplash.com/photo-1638501882499-0dff8183b363?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c291dmVuaXIlMjBzaG9wcGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+          "startTime": "2025-09-07T11:00:00+08:00",
+          "endTime": "2025-09-07T12:30:00+08:00",
+          "location": {
+            "address": "3 New Bugis Street, Singapore 188867",
+            "latitude": 1.3005,
+            "longitude": 103.8557
+          },
+          "cost": {
+            "estimatedAmount": 0,
+            "currency": "SGD",
+            "category": "Shopping",
+            "notes": "Budget is personal."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "Casual",
+          "userNotes": "Remember to bargain respectfully if the shop allows it."
+        },
+        {
+          "id": "activity-travel-05",
+          "name": "Travel to Changi Airport",
+          "description": "Travel via the East West Line MRT from Bugis to Changi Airport.",
+          "category": "Travel",
+          "imageUrl": "https://images.unsplash.com/photo-1584356176626-632a7257fdf5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hhbmdpJTIwYWlycG9ydHxlbnwwfHwwfHx8MA%3D%3D",
+          "startTime": "2025-09-07T13:00:00+08:00",
+          "endTime": "2025-09-07T13:45:00+08:00",
+          "location": null,
+          "cost": {
+            "estimatedAmount": 3.00,
+            "currency": "SGD",
+            "category": "Transport",
+            "notes": "Estimated cost for public transport."
+          },
+          "bookingLink": null,
+          "officialWebsite": null,
+          "dressCode": "",
+          "userNotes": "Ensure you have enough time before your flight."
+        },
+        {
+          "id": "activity-22",
+          "name": "Jewel Changi Airport",
+          "description": "A nature-themed entertainment and retail complex linked to Changi Airport. Its centerpiece is the HSBC Rain Vortex, the world's tallest indoor waterfall. Explore the Canopy Park and other attractions before your flight.",
+          "category": "Attraction",
+          "imageUrl": "https://images.unsplash.com/photo-1577311229939-225171273dde?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hhbmdpJTIwYWlycG9ydHxlbnwwfHwwfHx8MA%3D%3D",
+          "startTime": "2025-09-07T14:00:00+08:00",
+          "endTime": "2025-09-07T17:00:00+08:00",
+          "location": {
+            "address": "78 Airport Blvd., Singapore 819666",
+            "latitude": 1.3603,
+            "longitude": 103.9897
+          },
+          "cost": {
+            "estimatedAmount": 10.00,
+            "currency": "SGD",
+            "category": "Tickets",
+            "notes": "Viewing the Rain Vortex is free. Estimated cost for Canopy Park admission."
+          },
+          "bookingLink": null,
+          "officialWebsite": "https://www.jewelchangiairport.com/",
+          "dressCode": "Comfortable for travel.",
+          "userNotes": "Allow at least 3 hours to explore before needing to check in for your flight. The light show at the Rain Vortex in the evening is spectacular."
+        }
+      ]
+    }
+  ]
+}
+

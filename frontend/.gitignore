@@ -1,0 +1,37 @@
+# Dependencies
+/node_modules
+/jspm_packages/
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Compiled/Generated files
+/dist
+/build
+/out
+/.next/
+/.nuxt/
+/.vercel/
+/public/build
+/coverage
+
+# Logs and Data
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/.pnpm-debug.log*
+/lerna-debug.log*
+/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime/OS files
+/.env
+/.env.development
+/.env.production
+/.vscode
+*.local
+.DS_Store
+Thumbs.db
+
+# Testing
+/test-results/
+

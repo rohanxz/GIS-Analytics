@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / dynamically loaded files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.so
+
+# Distribution / Packaging
+.Python
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+.tox/
+
+# Virtual Environment
+# Typically named 'venv' or '.venv'
+/venv
+/.venv
+/env
+/.env
+
+# Dependencies (if installed locally inside the project)
+/lib/
+/include/
+/bin/
+
+# Testing
+.pytest_cache/
+.coverage
+/htmlcov/
+test/__pycache__/
+
+# Documentation (Sphinx)
+/docs/_build/
+
+# Jupyter Notebook / IPython
+.ipynb_checkpoints
+
+# Runtime / Data
+*.log
+*.sqlite3
+*.db
+/data/
+
+# Environment Variables / Credentials
+.env
+.flaskenv
+
+# Editor/OS Files
+.DS_Store
+Thumbs.db
+*.sublime-*
+*.vscode
