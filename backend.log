@@ -1,0 +1,61 @@
+2025-12-16 07:36:22,516 - __main__ - INFO - Project root added to sys.path: /app
+2025-12-16 07:36:28,344 - google_adk.google.adk.models.registry - INFO - Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for model-optimizer-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for model-optimizer-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for model-optimizer-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:28,345 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+/home/jules/.pyenv/versions/3.12.12/lib/python3.12/site-packages/pydantic/_internal/_fields.py:198: UserWarning: Field name "config_type" in "SequentialAgent" shadows an attribute in parent "BaseAgent"
+  warnings.warn(
+2025-12-16 07:36:28,943 - ux_agent.agent - INFO - Agent context: itinerary_data.json loaded successfully.
+2025-12-16 07:36:28,943 - __main__ - INFO - Successfully imported ADK components and UX agent.
+2025-12-16 07:36:28,946 - __main__ - WARNING - GOOGLE_API_KEY environment variable not set. Map view will not work.
+2025-12-16 07:36:28,947 - __main__ - INFO - UXAgentWebServer initialized successfully.
+2025-12-16 07:36:28,951 - __main__ - WARNING - Frontend build directory not found at /app/frontend/build. The UI will not be served.
+2025-12-16 07:36:28,951 - __main__ - WARNING - GOOGLE_API_KEY environment variable not set.
+INFO:     Will watch for changes in these directories: ['/app']
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [5429] using StatReload
+2025-12-16 07:36:29,538 - __mp_main__ - INFO - Project root added to sys.path: /app
+2025-12-16 07:36:37,374 - google_adk.google.adk.models.registry - INFO - Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for model-optimizer-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for model-optimizer-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for gemini-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for model-optimizer-.* from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/endpoints\/.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+2025-12-16 07:36:37,375 - google_adk.google.adk.models.registry - INFO - Updating LLM class for projects\/.+\/locations\/.+\/publishers\/google\/models\/gemini.+ from <class 'google.adk.models.google_llm.Gemini'> to <class 'google.adk.models.google_llm.Gemini'>
+/home/jules/.pyenv/versions/3.12.12/lib/python3.12/site-packages/pydantic/_internal/_fields.py:198: UserWarning: Field name "config_type" in "SequentialAgent" shadows an attribute in parent "BaseAgent"
+  warnings.warn(
+2025-12-16 07:36:38,073 - ux_agent.agent - INFO - Agent context: itinerary_data.json loaded successfully.
+2025-12-16 07:36:38,073 - __mp_main__ - INFO - Successfully imported ADK components and UX agent.
+2025-12-16 07:36:38,078 - __mp_main__ - WARNING - GOOGLE_API_KEY environment variable not set. Map view will not work.
+2025-12-16 07:36:38,078 - __mp_main__ - INFO - UXAgentWebServer initialized successfully.
+2025-12-16 07:36:38,083 - __mp_main__ - WARNING - Frontend build directory not found at /app/frontend/build. The UI will not be served.
+2025-12-16 07:36:38,137 - app - INFO - Project root added to sys.path: /app
+2025-12-16 07:36:38,137 - app - INFO - Successfully imported ADK components and UX agent.
+2025-12-16 07:36:38,141 - app - WARNING - GOOGLE_API_KEY environment variable not set. Map view will not work.
+2025-12-16 07:36:38,141 - app - INFO - UXAgentWebServer initialized successfully.
+2025-12-16 07:36:38,144 - app - WARNING - Frontend build directory not found at /app/frontend/build. The UI will not be served.
+INFO:     Started server process [5664]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:58880 - "GET /api/itinerary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /api/itinerary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /api/maps-key HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:0 - "GET /api/maps-key HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:0 - "GET /api/itinerary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /api/itinerary HTTP/1.1" 200 OK
+INFO:     127.0.0.1:0 - "GET /api/maps-key HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:0 - "GET /api/maps-key HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:0 - "GET /api/itinerary HTTP/1.1" 200 OK
